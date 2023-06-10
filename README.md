@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iamutkrista98
+- 🎓 BSc(Hons) Computing (2019-2023) - The British College Affiliated to Leeds Beckett University
+- 🌱 I’m currently learning React, Mern Stack
+- 👀 I’m interested in consuming knowledge through self-exploration and creating fun and innovative projects
+- 📫 How to reach me: iamutkrista98@gmail.com
+- 🏍 🚗 🎸 🐷 🗻🇳🇵
