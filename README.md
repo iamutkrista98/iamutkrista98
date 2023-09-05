@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iamutkrista98
 - 🎓 BSc(Hons) Computing (2019-2023) - The British College Affiliated to Leeds Beckett University
 - 🌱 I’m currently learning React, MERN Stack, AL Programming
+- 🌱 Currently working as Microsoft Dynamics NAV, Business Central ERP Trainee Technical Consultant at Agile Solutions Pvt. Ltd.
 - 👀 I’m interested in consuming knowledge through self-exploration and creating fun and innovative projects
 - 📫 How to reach me: iamutkrista98@gmail.com
 - 🏍 🚗 🎸 🐷 🗻🇳🇵
