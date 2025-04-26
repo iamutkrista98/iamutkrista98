@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iamutkrista98
+- 🎓 Currently Studying MSc Advanced Computer Science (2024-2026) - From The British College, Kathmandu Affiliated to Keele University, United Kingdom
 - 🎓 BSc(Hons) Computing (2019-2023) - Graduated with First Class Honors From The British College, Kathmandu Affiliated to Leeds Beckett University, United Kingdom
-- 🌱 Currently working as Microsoft Dynamics NAV, Business Central ERP Associate Technical Consultant and Developer assigned to Civil Aviation Authority Nepal (CAAN) ERP Implementation Project under Microsft Gold Certified Agile Solutions Pvt. Ltd.
+- 🌱 Worked as Microsoft Dynamics NAV, Business Central ERP Associate Technical Consultant and Developer assigned to Civil Aviation Authority Nepal (CAAN) ERP Implementation Project under Microsft Gold Certified Agile Solutions Pvt. Ltd.
 - 👀 I’m interested in consuming knowledge through self-exploration and creating fun and innovative projects
 - 📫 How to reach me: iamutkrista98@gmail.com
 - 🚗 🎸 🐷 🗻🇳🇵
